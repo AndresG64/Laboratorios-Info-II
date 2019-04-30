@@ -1,0 +1,11 @@
+#ifndef MIS_CLASES
+#define MIS_CLASES
+
+
+class Mis_funciones
+{
+public:
+    Mis_funciones();
+};
+
+#endif // MIS_CLASES
